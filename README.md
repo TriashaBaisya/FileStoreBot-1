@@ -43,7 +43,7 @@ _Press the button Deploy to heroku and give the values for the config vars. 👇
 ## VPS Deploy : 
 
 ```py
-git clone https://github.com/avipatilpro/FileStoreBot
+git clone https://github.com/TriashaBaisya/FileStoreBot
 cd FileStoreBot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
